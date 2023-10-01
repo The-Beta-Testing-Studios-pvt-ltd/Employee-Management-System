@@ -1,7 +1,7 @@
 
 ***
 
-# Welcome to The Beta Testing Studios's main repository!
+# Welcome to The employee management's main repository!
 
 ***
 
