@@ -1,41 +1,27 @@
+**NOTE:** This is a different customised verison of the Employee Management System from our non-organization account. This version is targeted only for very minute and selective features that the respective company wants.
 
-***
+# Project Overview
 
-# Welcome to The employee management's main repository!
+The Employee Management System is a command-line application developed using the Python programming language. Its primary function is to facilitate the efficient management of employee data, encompassing tasks such as adding, viewing, updating, and removing employee records. This system is tailored to optimize the handling of employee information, ensuring accuracy and security in the process.
 
-***
+### Features:
 
-## Some info about us:
+- **Add New Employees:** Input employee details like name, ID, department, and salary.
+- **View Employee Records:** Display a list of all employees or search for specific employees.
+- **Update Employee Information:** Modify existing employee details such as department or salary.
+- **Delete Employee Records:** Remove employees from the system.
+- **Data Persistence:** Employee data is stored for future access. 
 
-### The projects hooked with this specific repository are developer-friendly and consist of prototype projects. This is just a start-up repository and is not supposed to be handling complete, descriptive projects.
+## Prerequisites:
 
-### The below is only a reference to our security policies, we will probably update them when any three of our issues are fixed. Don't worry! That will definitely happen soon! To learn more about our security policy, please visit this link: https://github.com/pavans2011/prototype_projects/blob/main/SECURITY.md?plain=1
+- A basic and updated version of MySQL or Oracle SQL.
+- Requires *from os import system* modules.
+- Requires *import re* modules.
 
-| Version | Supported          |
-| ------- | ------------------ |
-| 5.1.x   | :white_check_mark: |
-| 5.0.x   | :x:                |
-| 4.0.x   | :white_check_mark: |
-| < 4.0   | :x:                |
+### Contributing:
 
-***
+Contributions are welcome! Feel free to open an issue or submit a pull request.
 
-## Our privacy policy: 
+### License:
 
-### This section tells people about which versions of our project are currently being supported with security updates that would be updated alongside our terms and conditions, the chart below is a representation of what versions of our products are backed by our security policy.
-
-***
-
-
-### We are honoured and very enthusiastic about gathering collaborators and our start-up projects are being used and rewarded, which is the sole purpose of this GitHub repository... So please, it would be rewarding if many more of a generation of beta testers could join forces and promote our products!
-
-
-***
- 
-![](https://e0.pxfuel.com/wallpapers/823/898/desktop-wallpaper-abstract-background-patterns-thumbnail.jpg)
-
-### Arios Amigos!
-### Powering off...
-
-***
-
+This project is licensed under the MPL 2.0 Licence.
