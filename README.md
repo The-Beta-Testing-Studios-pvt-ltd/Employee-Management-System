@@ -1,8 +1,8 @@
 # Project Overview
 
-**NOTE:** This is a different customised verison of the Employee Management System from our non-organization account. This version is targeted only for very minute and selective features that the respective company wants.
+**NOTE:** This is a different customised version of the Employee Management System from our non-organization account. This version is targeted only for very minute and selective features that the respective company wants.
 
-The Employee Management System is a command-line application developed using the Python programming language. Its primary function is to facilitate the efficient management of employee data, encompassing tasks such as adding, viewing, updating, and removing employee records. This system is tailored to optimize the handling of employee information, ensuring accuracy and security in the process.
+The Employee Management System is a very simple command-line application created with Python. It is designed to streamline the management of employee data by providing features for adding, viewing, updating, and deleting employee records. This system is customized to enhance the organization and security of employee information, guaranteeing precision and data protection throughout the process.
 
 ### Features:
 
@@ -18,10 +18,10 @@ The Employee Management System is a command-line application developed using the
 
 ## Important Prerequisites:
 
-- Supports atleast Microsoft SQL 15.0.2000.5 or above and CU CU28-15.0.4385.2 and above.
+- Supports at least Microsoft SQL 15.0.2000.5 or above and CU CU28-15.0.4385.2 and above.
 - Supports MySQL 8.0 and above.
 - Supports Oracle Database 21c-21.1.0 and above.
-**NOTE:** Support for Mongo DB is not available. I twill be made available soon in future updates.
+**NOTE:** Support for Mongo DB is not available. It will be made available soon in future updates.
 - Requires *from os import system* modules.
 - Requires *import re* modules.
 
@@ -30,7 +30,7 @@ The Employee Management System is a command-line application developed using the
 Contributions are welcome!
 
 **Opening Issues:** Anyone can open an issue to point out a problem they encountered or propose a new functionality they would like to see in the system.
-**Submitting Pull Requests:** If you want to fix a bug or implement a new feature, then feel free to create a branch in your own fork of the repository, make the necessary code modifications, and then submit a pull request to have your changes merged into the main project's code.
+**Submitting Pull Requests:** If you want to fix a bug or implement a new feature, then feel free to create a branch in your fork of the repository, make the necessary code modifications, and then submit a pull request to have your changes merged into the main project's code.
 
 ### License:
 
